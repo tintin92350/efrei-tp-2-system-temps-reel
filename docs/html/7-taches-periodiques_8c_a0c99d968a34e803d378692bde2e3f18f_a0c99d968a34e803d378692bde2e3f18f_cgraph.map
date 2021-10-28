@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Setting up a timer of 1 second then call an infinite loop to let the timer&#39;s callback work." alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node2" href="$utils_8h_adae9e6c864ff13423361bf41450f9730.html#adae9e6c864ff13423361bf41450f9730" title=" " alt="" coords="122,5,213,32"/>
+<area shape="rect" id="node3" href="$7-taches-periodiques_8c_aa9854f34aab8315190c2d5945e54b058.html#aa9854f34aab8315190c2d5945e54b058" title="Start the timer for an interval of 1 second before running the next one." alt="" coords="120,56,215,83"/>
+<area shape="rect" id="node4" href="$7-taches-periodiques_8c_adaa3a4b597c87a8e1395fb1804dcbf23.html#adaa3a4b597c87a8e1395fb1804dcbf23" title="Stop the timer (set the current timer to null in order to deactivate it)" alt="" coords="121,107,213,133"/>
+<area shape="rect" id="node5" href="$7-taches-periodiques_8c_a7890acc72c3f32c2f13bac384aec5883.html#a7890acc72c3f32c2f13bac384aec5883" title="Function called when timer trigger callback." alt="" coords="108,157,227,184"/>
+<area shape="rect" id="node6" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="275,157,352,184"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Entry point of the program that test a 5s work." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="108,5,185,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="do_work" name="do_work">
+<area shape="rect" id="node1" title="Simulation of work on CPU during x ms." alt="" coords="408,208,485,235"/>
+<area shape="rect" id="node2" href="$6-taches-periodiques_8c_ace5b6592660d43bdc4ba8987fe638b3e.html#ace5b6592660d43bdc4ba8987fe638b3e" title="Alarm method of periodic call do a work of 500 milliseconds then wait 1 second then send an alarm in ..." alt="" coords="224,5,347,32"/>
+<area shape="rect" id="node4" href="$6-taches-periodiques_8c_ac5e2e18d3c427ed3fc76f352a094ebcd.html#ac5e2e18d3c427ed3fc76f352a094ebcd" title="Sleep method of periodic call Infinite loop in order to repeate the action with a period." alt="" coords="226,56,345,83"/>
+<area shape="rect" id="node5" href="$1-introduction_8c_a3c04138a5bfe5d72780bb7e82a18e627.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Entry point of the program that test a 5s work." alt="" coords="258,107,313,133"/>
+<area shape="rect" id="node6" href="$3-taches-sporadiques_8c_a0d53ff82c98dba1eab0f2ec108f8c621.html#a0d53ff82c98dba1eab0f2ec108f8c621" title="Handling signals." alt="" coords="230,157,341,184"/>
+<area shape="rect" id="node8" href="$4-taches-sporadiques_8c_adabca9ac7b5d56ab1171326c9e90c428.html#adabca9ac7b5d56ab1171326c9e90c428" title="Function that will do the work of signalhandler." alt="" coords="211,208,360,235"/>
+<area shape="rect" id="node10" href="$8-taches-periodiques_8c_ade940d2cc500c5ea071546999721f9f7.html#ade940d2cc500c5ea071546999721f9f7" title="Execute task t2." alt="" coords="266,259,305,285"/>
+<area shape="rect" id="node13" href="$8-taches-periodiques_8c_a747157e608ad9150118ce398fc715ff0.html#a747157e608ad9150118ce398fc715ff0" title="Execute task t2." alt="" coords="266,309,305,336"/>
+<area shape="rect" id="node14" href="$8-taches-periodiques_8c_a1542467493b78353ff426802fa308b51.html#a1542467493b78353ff426802fa308b51" title="Execute task t2." alt="" coords="266,360,305,387"/>
+<area shape="rect" id="node15" href="$11-programmation-preemptive_8c_a21e8fd3d574390891538033abe15e74f.html#a21e8fd3d574390891538033abe15e74f" title=" " alt="" coords="226,411,345,437"/>
+<area shape="rect" id="node3" href="$6-taches-periodiques_8c_abf9e6b7e6f15df4b525a2e7705ba3089.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="Show two ways of processing periodic functions." alt="" coords="108,31,163,57"/>
+<area shape="rect" id="node7" href="$3-taches-sporadiques_8c_a3c04138a5bfe5d72780bb7e82a18e627.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="108,157,163,184"/>
+<area shape="rect" id="node9" href="$4-taches-sporadiques_8c_a3c04138a5bfe5d72780bb7e82a18e627.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main entry point of the program." alt="" coords="108,208,163,235"/>
+<area shape="rect" id="node11" href="$8-taches-periodiques_8c_aaad4f4d77885dd2457f79c20ac27db19.html#aaad4f4d77885dd2457f79c20ac27db19" title="Execute all tasks." alt="" coords="110,309,161,336"/>
+<area shape="rect" id="node12" href="$8-taches-periodiques_8c_a0c99d968a34e803d378692bde2e3f18f.html#a0c99d968a34e803d378692bde2e3f18f" title="We have to deal with a 333ms for t2 so in order to make it easier we can take 333ms =&gt; 1s and t3 1s =..." alt="" coords="5,309,60,336"/>
+<area shape="rect" id="node16" href="$11-programmation-preemptive_8c_a0c99d968a34e803d378692bde2e3f18f.html#a0c99d968a34e803d378692bde2e3f18f" title="We need to separate our program in 3 other process (fork)." alt="" coords="108,411,163,437"/>
+</map>

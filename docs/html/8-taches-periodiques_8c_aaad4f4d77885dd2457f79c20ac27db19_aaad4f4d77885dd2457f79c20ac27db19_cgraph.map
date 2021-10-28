@@ -1,0 +1,7 @@
+<map id="task" name="task">
+<area shape="rect" id="node1" title="Execute all tasks." alt="" coords="5,56,56,83"/>
+<area shape="rect" id="node2" href="$8-taches-periodiques_8c_ade940d2cc500c5ea071546999721f9f7.html#ade940d2cc500c5ea071546999721f9f7" title="Execute task t2." alt="" coords="104,5,143,32"/>
+<area shape="rect" id="node4" href="$8-taches-periodiques_8c_a747157e608ad9150118ce398fc715ff0.html#a747157e608ad9150118ce398fc715ff0" title="Execute task t2." alt="" coords="104,56,143,83"/>
+<area shape="rect" id="node5" href="$8-taches-periodiques_8c_a1542467493b78353ff426802fa308b51.html#a1542467493b78353ff426802fa308b51" title="Execute task t2." alt="" coords="104,107,143,133"/>
+<area shape="rect" id="node3" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="191,56,268,83"/>
+</map>

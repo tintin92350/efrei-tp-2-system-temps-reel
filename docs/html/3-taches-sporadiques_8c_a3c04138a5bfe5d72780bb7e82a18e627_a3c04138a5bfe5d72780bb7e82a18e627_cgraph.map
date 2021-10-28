@@ -1,0 +1,6 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main entry point of the program." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$utils_8h_a43adbe7bbf96cef4251b4cc477ff074b.html#a43adbe7bbf96cef4251b4cc477ff074b" title="Display the current process PID in the standard output." alt="" coords="108,5,249,32"/>
+<area shape="rect" id="node3" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="297,81,375,108"/>
+<area shape="rect" id="node4" href="$3-taches-sporadiques_8c_a0d53ff82c98dba1eab0f2ec108f8c621.html#a0d53ff82c98dba1eab0f2ec108f8c621" title="Handling signals." alt="" coords="123,107,234,133"/>
+</map>

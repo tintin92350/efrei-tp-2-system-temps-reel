@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Show two ways of processing periodic functions." alt="" coords="5,56,60,83"/>
+<area shape="rect" id="node2" href="$6-taches-periodiques_8c_ace5b6592660d43bdc4ba8987fe638b3e.html#ace5b6592660d43bdc4ba8987fe638b3e" title="Alarm method of periodic call do a work of 500 milliseconds then wait 1 second then send an alarm in ..." alt="" coords="108,5,231,32"/>
+<area shape="rect" id="node4" href="$6-taches-periodiques_8c_ac5e2e18d3c427ed3fc76f352a094ebcd.html#ac5e2e18d3c427ed3fc76f352a094ebcd" title="Sleep method of periodic call Infinite loop in order to repeate the action with a period." alt="" coords="110,56,229,83"/>
+<area shape="rect" id="node5" href="$utils_8h_adae9e6c864ff13423361bf41450f9730.html#adae9e6c864ff13423361bf41450f9730" title=" " alt="" coords="124,107,215,133"/>
+<area shape="rect" id="node3" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="279,31,356,57"/>
+</map>

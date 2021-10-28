@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="We have to deal with a 333ms for t2 so in order to make it easier we can take 333ms =&gt; 1s and t3 1s =..." alt="" coords="5,31,60,57"/>
+<area shape="rect" id="node2" href="$utils_8h_adae9e6c864ff13423361bf41450f9730.html#adae9e6c864ff13423361bf41450f9730" title=" " alt="" coords="108,5,199,32"/>
+<area shape="rect" id="node3" href="$8-taches-periodiques_8c_aaad4f4d77885dd2457f79c20ac27db19.html#aaad4f4d77885dd2457f79c20ac27db19" title="Execute all tasks." alt="" coords="128,56,179,83"/>
+<area shape="rect" id="node4" href="$8-taches-periodiques_8c_ade940d2cc500c5ea071546999721f9f7.html#ade940d2cc500c5ea071546999721f9f7" title="Execute task t2." alt="" coords="247,5,285,32"/>
+<area shape="rect" id="node6" href="$8-taches-periodiques_8c_a747157e608ad9150118ce398fc715ff0.html#a747157e608ad9150118ce398fc715ff0" title="Execute task t2." alt="" coords="247,56,285,83"/>
+<area shape="rect" id="node7" href="$8-taches-periodiques_8c_a1542467493b78353ff426802fa308b51.html#a1542467493b78353ff426802fa308b51" title="Execute task t2." alt="" coords="247,107,285,133"/>
+<area shape="rect" id="node5" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="333,56,411,83"/>
+</map>

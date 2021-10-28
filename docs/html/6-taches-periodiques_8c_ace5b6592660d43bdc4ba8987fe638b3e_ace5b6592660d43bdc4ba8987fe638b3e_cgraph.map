@@ -1,0 +1,4 @@
+<map id="do_work_alarm" name="do_work_alarm">
+<area shape="rect" id="node1" title="Alarm method of periodic call do a work of 500 milliseconds then wait 1 second then send an alarm in ..." alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node2" href="$1-introduction_8h_a3f635a8c606ca4065819b3c8c8d7b56a.html#a3f635a8c606ca4065819b3c8c8d7b56a" title="Simulation of work on CPU during x ms." alt="" coords="176,5,253,32"/>
+</map>
