@@ -86,6 +86,9 @@ void task() {
  * of each task. (because we construct the TASK function by calling divided part
  * of our tasks, so it only works for the time there was made for)
  * 
+ * The execution is deterministic because function's call are synchrone and each task is called
+ * after the end of the last one.
+ * 
  * @param ac 
  * @param av 
  * @return int 
