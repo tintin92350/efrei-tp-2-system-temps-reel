@@ -20,21 +20,65 @@
 
 #include "utils.h"
 
+int ttime = 0;
+
+/**
+ * @brief Execute task t2
+ * 
+ * @param executionTime time of execution of the task
+ */
 void t2(int executionTime) {
     do_work(executionTime);
+    ttime+= executionTime;
 }
 
+/**
+ * @brief Execute task t2
+ * 
+ * @param executionTime time of execution of the task
+ */
 void t3(int executionTime) {
     do_work(executionTime);
+    ttime+= executionTime;
 }
 
+/**
+ * @brief Execute task t2
+ * 
+ * @param executionTime time of execution of the task
+ */
 void t4(int executionTime) {
     do_work(executionTime);
+    ttime+= executionTime;
+}
+
+/**
+ * @brief Execute all tasks
+ * 
+ */
+void task() {
+    t2(333);
+    t3(1000);
+    t4(2000);
+    t2(333);
+    t3(1000);
+    t2(333);
+    t4(2000);
+    t2(333);
+    t3(1000);
+    t2(333);
+    t4(2000);
+    t3(1000);
+    t2(333);
 }
 
 /**
  * @brief 
  * 
+ * We have to deal with a 333ms for t2 so in order to make it easier
+ * we can take 333ms => 1s and t3 1s => 3s and finally t4 3s => 12s
+ * 
+ * Then juste divide by 3 all.
  * 
  * @param ac 
  * @param av 
@@ -44,11 +88,9 @@ int main(int ac, char **av)
 {
     signal(SIGINT, handleExit);
 
-    t2(333);        // 0 - 333ms            t2 executé 1 fois
-    t3(1000);       // 333ms - 1.333s       t3 executé 1 fois
-    t4(666);        // 1.333ms - 2000ms
-    t2(333);        // 2000ms - 2.333ms     t2 executé 2 fois
-    t4(666);        // 2.333ms - 3000ms     t3 executé 2 fois
-    t3(333);       // 3000ms - 3.333s       t3 executé 1 fois
-    t4(666);        // 3.333ms - 4000ms     t3 executé 2 fois
+    task();
+
+    printf("total time : %d\n", ttime);
+
+    return 0;
 }

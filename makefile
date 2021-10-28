@@ -21,4 +21,7 @@ introduction: src/1-introduction.c
 7TachesPeriodiques: src/7-taches-periodiques.c
 	$(CC) -o bin/7-taches-periodiques src/7-taches-periodiques.c -lrt
 
-all: introduction 2TachesSporadiques 3TachesSporadiques 4TachesSporadiques 5TachesSporadiques 6TachesPeriodiques 7TachesPeriodiques
+8TachesPeriodiques: src/8-taches-periodiques.c
+	$(CC) -o bin/8-taches-periodiques src/8-taches-periodiques.c -lrt
+
+all: introduction 2TachesSporadiques 3TachesSporadiques 4TachesSporadiques 5TachesSporadiques 6TachesPeriodiques 7TachesPeriodiques 8TachesPeriodiques
