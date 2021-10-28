@@ -24,4 +24,10 @@ introduction: src/1-introduction.c
 8TachesPeriodiques: src/8-taches-periodiques.c
 	$(CC) -o bin/8-taches-periodiques src/8-taches-periodiques.c -lrt
 
-all: introduction 2TachesSporadiques 3TachesSporadiques 4TachesSporadiques 5TachesSporadiques 6TachesPeriodiques 7TachesPeriodiques 8TachesPeriodiques
+11ProgrammationPreemptive: src/11-programmation-preemptive.c
+	$(CC) -o bin/11-programmation-preemptive src/11-programmation-preemptive.c -lrt
+
+14ProgrammationPreemptive: src/14-programmation-preemptive.c
+	$(CC) -o bin/14-programmation-preemptive src/14-programmation-preemptive.c -lrt
+
+all: introduction 2TachesSporadiques 3TachesSporadiques 4TachesSporadiques 5TachesSporadiques 6TachesPeriodiques 7TachesPeriodiques 8TachesPeriodiques 11ProgrammationPreemptive 14ProgrammationPreemptive

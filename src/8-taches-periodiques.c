@@ -80,6 +80,12 @@ void task() {
  * 
  * Then juste divide by 3 all.
  * 
+ * 
+ * If we have a processor 2 times faster our application won't work anymore.
+ * why ? because if we multiply our processor speed, it will affect the periode
+ * of each task. (because we construct the TASK function by calling divided part
+ * of our tasks, so it only works for the time there was made for)
+ * 
  * @param ac 
  * @param av 
  * @return int 
